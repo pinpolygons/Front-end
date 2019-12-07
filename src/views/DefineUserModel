@@ -1,0 +1,4 @@
+Để làm code sạch và đơn giản để đọc, chúng ta xác định mô hình User đầu tiên. Tiếp tục với các component Authentication
+thay vì trực tiếp sử dụng axios hay AuthService, Các component này nên làm việc với Vuex store
+    - Lấy các trạng thái với this.$store.state.Authentication
+    -làm yêu cầu bởi một hành động đang gửi: this.$store.dispatch()

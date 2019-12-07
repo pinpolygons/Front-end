@@ -1,0 +1,21 @@
+{
+    "passwordIsNotBlank": "Mật khẩu không được để trống",
+    "passwordIsWrong": "Sai mật khẩu",
+    "language": "Ngôn Ngữ",
+    "vietnamese": "Tiếng Việt",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "password": "Mật khẩu",
+    "usernameIsNotBlank": "Tên đăng nhập không được trống",
+    "english": "Tiếng Anh",
+    "userBoard": "Trang User",
+    "userNameIsWrong": "Sai tên đăng nhập",
+    "moderatorBoard": "Trang Moderator",
+    "user": "Tài khoản",
+    "username": "Tên đăng nhập",
+    "adminBoard": "Trang Admin",
+    "home": "Trang chủ",
+    "about": "Thông tin",
+    "contact": "Liên hệ",
+    "page": "Trang"
+}

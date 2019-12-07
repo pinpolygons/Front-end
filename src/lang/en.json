@@ -1,0 +1,21 @@
+{
+    "passwordIsNotBlank": "Password is not blank",
+    "passwordIsWrong": "Password is wrong",
+    "language": "Language",
+    "vietnamese": "Vietnamese",
+    "login": "Login",
+    "logout": "Logout",
+    "password": "Password",
+    "usernameIsNotBlank": "Username is not blank",
+    "english": "English",
+    "userBoard": "User Page",
+    "userNameIsWrong": "Username is wrong",
+    "moderatorBoard": "Moderator Page",
+    "user": "User",
+    "username": "Username",
+    "adminBoard": "Amin Page",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "page": "Page"
+}
