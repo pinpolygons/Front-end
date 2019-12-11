@@ -10,9 +10,9 @@ const messages = {
 }
 
 const i18n = new VueI18n({
-    locale: 'vn',
+    locale: sessionStorage.getItem("lang"),
     messages,
-    fallbackLocale: 'vn',
+    fallbackLocale: sessionStorage.getItem("lang")
 })
 
 export default i18n;

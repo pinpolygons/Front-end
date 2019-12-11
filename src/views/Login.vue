@@ -41,13 +41,13 @@
           </div>
         </div>
         <div class="form-group">
-            <button class="btn btn-primary btn-block" :disabled="loading">
+            <button class="btn btn-primary btn-block">
                 <span class="spinner-border spinner-border-sm" v-show="loading"></span>
                 <span>{{$t("login")}}</span>
             </button>
         </div>
         <div class="form-group">
-            <div class="alert alert-danger" role="alert" v-if="message">{{message}}</div>
+            <div class="alert alert-danger" role="alert" v-if="message">{{$t("unthorized")}}</div>
         </div>
       </form>
       
@@ -94,7 +94,7 @@ export default {
           },
           error => {
             this.loading = false;
-            this.message = error.message;
+            this.message = error.message
           }
         )
       }

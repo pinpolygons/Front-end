@@ -17,5 +17,6 @@
     "home": "Home",
     "about": "About",
     "contact": "Contact",
-    "page": "Page"
+    "page": "Page",
+    "unthorized": "Password or username is wrong"
 }
